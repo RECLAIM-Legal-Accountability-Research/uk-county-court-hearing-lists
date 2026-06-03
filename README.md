@@ -1,14 +1,11 @@
-# uk-county-court-hearing-lists
-Longitudinal Collection of UK County Court Daily Hearing Lists
-https://doi.org/10.5281/zenodo.19828688
-Published April 28, 2026 | Version v1
-Dataset  Open[20250710-18092025_CCHearingListing_AggreatedData.txt](https://github.com/user-attachments/files/28554966/20250710-18092025_CCHearingListing_AggreatedData.txt)
+Longitudinal Collection of UK County Court Daily Hearing Lists  
+<https://doi.org/10.5281/zenodo.19828688>  
+Published April 28, 2026 | Version v1 | Dataset  Open  
+Authors/Creators: Bohlinger, Britta (Researcher)  
+# APA citation:
+Bohlinger, B. (2026). Longitudinal Collection of UK County Court Daily Hearing Lists [Data set]. Zenodo. <https://doi.org/10.5281/zenodo.19828688>  
 
-Longitudinal Collection of UK County Court Daily Hearing Lists
-Authors/Creators: Bohlinger, Britta (Researcher)
-
-APA citation:
-Bohlinger, B. (2026). Longitudinal Collection of UK County Court Daily Hearing Lists [Data set]. Zenodo. https://doi.org/10.5281/zenodo.19828688
+GitHub <https://github.com/RECLAIM-Legal-Accountability-Research/uk-county-court-hearing-lists/>
 
 # Description
 Purpose and Global Accessibility
@@ -20,10 +17,14 @@ Governance and Funding
 The research project has been independently conceived, designed, and executed, including all necessary personal funding for data acquisition and processing. The project maintains full autonomy over the research agenda, data interpretation, and final outputs.
  
 Human-AI Collaborative Framework
-To ensure methodological rigour and reduce potential cognitive bias, a hybrid workflow integrating Large Language Models (LLMs) alongside traditional data analysis tools was employed. This collaboration was structured as an iterative, Agile-based review cycle, where AI assisted in:
-Data Aggregation: Consolidating raw listings from multiple County Courts, including Central London, Wandsworth, and Clerkenwell & Shoreditch into standardised, fixed-width plain text tables.
-Trend Identification: Recognising longitudinal patterns, such as the regular bi-monthly processing of "Restored Name" applications and the consistency of "HMRC Petitions" peaks.
-Verification: Cross-referencing AI-generated subtotals against source records to ensure accuracy in unique case reference counts and hearing channel classifications (e.g., In Person, CVP / MS Teams, Telephone, and On the Papers).
+To ensure methodological rigour and reduce potential cognitive bias, a hybrid workflow integrating Large Language Models (LLMs) alongside traditional data analysis tools was employed. This collaboration was structured as an iterative, Agile-based review cycle, where AI assisted in:  
+
+Data Aggregation: Consolidating raw listings from multiple County Courts, including Central London, Wandsworth, and Clerkenwell & Shoreditch into standardised, fixed-width plain text tables.  
+
+Trend Identification: Recognising longitudinal patterns, such as the regular bi-monthly processing of "Restored Name" applications and the consistency of "HMRC Petitions" peaks.  
+
+Verification: Cross-referencing AI-generated subtotals against source records to ensure accuracy in unique case reference counts and hearing channel classifications (e.g., In Person, CVP / MS Teams, Telephone, and On the Papers).  
+
 By consolidating data from July 2025 through April 2026, this archive serves as a public resource for researchers, litigants, NGOs and other parties globally. 
  
 Case management patterns vary, depending on the allocated track (based on case value in £/GBP) and judicial allocation of time. Judicial determinations "On the Papers" permit maximum flexibility as they do not require parties in attendance. The dataset makes this granular, anonymised data transparent and searchable beyond the fragmented official portals which override daily listings.
@@ -33,13 +34,15 @@ Disclaimer: The comparative legal terminology provided here, and all other infor
 Methodology:
 This dataset consists of data extracted and synthesised from official UK County Court Daily Hearing / Cause Lists (July 2025 – April 2026).  The primary source data are not included in this repository to respect the terms of the original listing services.
  
-The data has been transformed into a structured format to facilitate longitudinal analysis of hearing types, and the use of remote hearing channels including video, telephone and on the papers.
+The data has been transformed into a structured format to facilitate longitudinal analysis of hearing types, and the use of remote hearing channels including video, telephone and on the papers.  
+
 Distinct Entities: It distinguishes between the total number of entries and the number of specific, separate categories. For instance, while there are hundreds of individual hearings, they only occupy five unique channels, i.e. In person, MS Teams / CVP, On the Papers, and Telephone.
 
 Methodological Rigour: Using "unique" ensures counting of discrete variables rather than raw instances. The sources themselves adopt this terminology, specifically defining "Count" as the total number of "unique case reference numbers" to avoid double-counting the same legal matter in aggregated summaries.
 
-Longitudinal Accuracy: Across the various date ranges - from July 2025 through April 2026 - certain courts or types appear repeatedly. Identifying the unique count (e.g., six courts) provides exactly how many distinct venues are being monitored regardless of how many times they appear in the data.
-Technical specification
+Longitudinal Accuracy: Across the various date ranges - from July 2025 through April 2026 - certain courts or types appear repeatedly. Identifying the unique count (e.g., six courts) provides exactly how many distinct venues are being monitored regardless of how many times they appear in the data.  
+
+Technical specification  
 Standardised `.txt` File Format Specification to ensure the dataset is machine-readable and archival-grade. Structural rules applied:
 
 1. Fixed-Width Layout
@@ -61,34 +64,33 @@ Standardised `.txt` File Format Specification to ensure the dataset is machine-r
 - Data Aggregation: Only includes counts of cases per hearing profile; does not list individual case names or numbers.
  
 4. Asterisked Comments (Footer)
-Qualitative administrative metadata that does not fit into the table has been placed at the bottom of the file using a single or double asterisk system (**)
- 
-### **Standardized Template**
+Qualitative administrative metadata that does not fit into the table has been placed at the bottom of the file using a single or double asterisk system (*Comment regarding specific administrative list or venue; ** Comment regarding specific officer or listing anomaly].
+
+# Standardized Template  
 ```text
 DATE       | COURT NAME               | HEARING TYPE             | CATEGORY         | CHANNEL       | COUNT
 -------------------------------------------------------------------------------------------------------------
 DD/MM/YYYY | [Full Court Name]        | [Type of Hearing]        | [Tag]            | [In person/Remote]| 0
 -------------------------------------------------------------------------------------------------------------
 TOTAL FOR DATE                                                                                        0
- 
-* [Comment regarding specific administrative list or venue]
-** [Comment regarding specific officer or listing anomaly]
+```
 Technical info (English)
 This analysis, supported by Notebook LM (AI Assistant), demonstrates how the raw text of the daily hearing [cause] lists can be transformed into a machine-readable format for statistical research on court operations, administrative backlog, and the use of remote hearing technologies [channels].
 
 Notebook LM (Language Model) relies on source-grounded AI and uses only the documents uploaded by the user.  In this case only PDF documents were in scope. This significantly reduced AI "hallucinations", ensuring a higher degree of accuracy, and minimising the subsequent manual quality checks and corrections.
 
-# Table of contents (English)
-DT_ST	DT_EN	FILE_NAME
-28/04/26	28/04/2026	20260428_CC HearingListing_AggregatedData.txt
-17/04/26	21/04/2026	20260417-21_CCHearingListing_Aggregated Data.txt
-17/11/25	25/03/2026	20260325_20251117_CCHearingList_AggregatedData.txt
-22/09/25	14/11/2025	20250922-14112025_CCHearingList_AggregatedData.txt
-10/07/25	18/09/2025	20250710-18092025_CCHearingListing_AggreatedData.txt
-Methods (English)
-Dictionary - Comparative Legal and Institutional Terminology
-The comparative legal terminology provided here, and all other information within this data set and research project, is for archival and informational purposes only. It does not constitute legal advice, legal strategy, or financial advice.
- 
+# Table of contents (English)  
+DT_ST	DT_EN	FILE_NAME  
+28/04/26	28/04/2026	20260428_CC HearingListing_AggregatedData.txt  
+17/04/26	21/04/2026	20260417-21_CCHearingListing_Aggregated Data.txt  
+17/11/25	25/03/2026	20260325_20251117_CCHearingList_AggregatedData.txt  
+22/09/25	14/11/2025	20250922-14112025_CCHearingList_AggregatedData.txt  
+10/07/25	18/09/2025	20250710-18092025_CCHearingListing_AggreatedData.txt  
+
+# Methods (English)
+Dictionary - Comparative Legal and Institutional Terminology  
+The comparative legal terminology provided here, and all other information within this data set and research project, is for archival and informational purposes only. It does not constitute legal advice, legal strategy, or financial advice.  
+  
 Note: German terms use the grammatical masculine form (m) for brevity and indexing consistency; these terms are intended to be gender-neutral and apply to all parties regardless of gender.
  
 | Key Term (UK) | Equivalent (USA) | Equivalent (Germany) |
@@ -126,23 +128,24 @@ HMCTS is accountable to the UK Parliament.  Its Justice Committee "examines the 
 
 Relevant specific References:
 The Bar Council Warning (The BC represents the profession, i.e. barristers)
-Bar Council. (2025, July 23). Chronically under-resourced county court system is eroding justice, Bar Council warns. https://www.barcouncil.org.uk/resource/chronically-under-resourced-county-court-system-is-eroding-justice-bar-council-warns.html
+Bar Council. (2025, July 23). Chronically under-resourced county court system is eroding justice, Bar Council warns. <https://www.barcouncil.org.uk/resource/chronically-under-resourced-county-court-system-is-eroding-justice-bar-council-warns.html>
 
 HMCTS Framework Document
-Ministry of Justice & HM Courts & Tribunals Service. (2014). HMCTS framework document. https://assets.publishing.service.gov.uk/media/5a7efae440f0b6230268cbeb/hmcts-framework-document-2014.pdf
+Ministry of Justice & HM Courts & Tribunals Service. (2014). HMCTS framework document. <https://assets.publishing.service.gov.uk/media/5a7efae440f0b6230268cbeb/hmcts-framework-document-2014.pdf>
 
 HMCTS Equality and Diversity Policy
-HM Courts & Tribunals Service. (n.d.). Equality and diversity. GOV.UK. https://www.gov.uk/government/organisations/hm-courts-and-tribunals-service/about/equality-and-diversity
+HM Courts & Tribunals Service. (n.d.). Equality and diversity. GOV.UK. <https://www.gov.uk/government/organisations/hm-courts-and-tribunals-service/about/equality-and-diversity>
 
 Justice Committee Press Release
-Justice Committee. (2025, July 23). Justice denied: dysfunctional county court system failing to deliver justice and requires urgent review, Committee warns. UK Parliament. https://committees.parliament.uk/committee/102/justice-committee/news/208478/justice-denied-dysfunctional-county-court-system-failing-to-deliver-justice-and-requires-urgent-review-committee-warns/
+Justice Committee. (2025, July 23). Justice denied: dysfunctional county court system failing to deliver justice and requires urgent review, Committee warns. UK Parliament. <https://committees.parliament.uk/committee/102/justice-committee/news/208478/justice-denied-dysfunctional-county-court-system-failing-to-deliver-justice-and-requires-urgent-review-committee-warns/>
  
 Law Society of Ireland Gazette Article
-Law Society Gazette. (2025, July 23). England and Wales: civil justice dysfunctional. https://www.lawsociety.ie/gazette/top-stories/2025/july/england-and-wales-civil-justice-dysfunctional/
+Law Society Gazette. (2025, July 23). England and Wales: civil justice dysfunctional. <https://www.lawsociety.ie/gazette/top-stories/2025/july/england-and-wales-civil-justice-dysfunctional/>
  
 Supreme Court Scam Alert
-Supreme Court of the United Kingdom. (n.d.). Scam alert. https://supremecourt.uk/scam
-Notes (English)
+Supreme Court of the United Kingdom. (n.d.). Scam alert. <https://supremecourt.uk/scam>
+
+# Notes (English)
 Common Latin Terms across Jurisdictions: UK, USA, and Germany
 
 | Latin Term | All 3? | Core Meaning | Jurisdictional Nuance |
@@ -168,35 +171,27 @@ Common Latin Terms across Jurisdictions: UK, USA, and Germany
 *   **Quantum:** This remains the standard term for the financial assessment of a claim. It is the primary focus of **Fast-track** and **Small Claims** trials, where the court must determine the specific damages to be paid.
 
 Files
-20260325_20251117_CCHearingList_AggregatedData.txt
+20260325_20251117_CCHearingList_AggregatedData.txt  
+20250710-18092025_CCHearingListing_AggreatedData.txt  
+20250922-14112025_CCHearingList_AggregatedData.txt  
+20260325_20251117_CCHearingList_AggregatedData.txt  
+20260417-21_CCHearingListing_Aggregated Data.txt  
+20260428_CC HearingListing_AggregatedData.txt  
 
-Files (48.9 kB)
-Name	Size	
-20250710-18092025_CCHearingListing_AggreatedData.txt
-md5:fc53133e954371f3d03804a1bb9f01f3 	9.4 kB	 
-20250922-14112025_CCHearingList_AggregatedData.txt
-md5:2dfdb45bace1cdbd8d3b386a2d551883 	13.4 kB	 
-20260325_20251117_CCHearingList_AggregatedData.txt
-md5:a98f01f7ab812a816e282cf3998c1af2 	7.7 kB	 
-20260417-21_CCHearingListing_Aggregated Data.txt
-md5:ad716a530aa4739c28fdb24770ab791a 	12.6 kB	 
-20260428_CC HearingListing_AggregatedData.txt
-md5:bcf4897c437eceeeb86bdee7803f56ef 	5.7 kB
-
-Additional details
 # Related works
 Is supplemented by Dataset: 10.5281/zenodo.19697776 (DOI)
-Dates Created: 2026-04-28
+Dates Created: 2026-04-28  
+APA citation: Bohlinger, B. (2026). Digital Archive of UK Judicial Directories: Point-in-Time Capture (2020, 2025, 2026) [Data set]. Zenodo. <https://doi.org/10.5281/zenodo.19697776>
 
 # References
-Courts and Tribunals Judiciary. (n.d.). County court. https://www.judiciary.uk/courts-and-tribunals/county-court/. Retrieved April 28, 2026.
-HM Courts & Tribunals Service. (n.d.). Find a court or tribunal. GOV.UK. Retrieved April 28, 2026, from https://www.gov.uk/find-court-tribunal
-HM Courts & Tribunals Service (HMCTS). (2025, April 4). List of civil court forms arranged by subject matter [Guidance]. GOV.UK. https://www.gov.uk/government/publications/civil-procedure-rules-court-forms/list-of-civil-court-forms-arranged-by-subject-matter
-HM Courts & Tribunals Service (HMCTS). (n.d.). HMCTS hearing lists [Collection]. GOV.UK. Retrieved April 28, 2026, from https://www.gov.uk/government/collections/hmcts-hearing-lists
-House of Commons Justice Committee. (2025, July 21). Work of the County Court (HC 677, Fourth Report of Session 2024–25). UK Parliament. https://publications.parliament.uk/pa/cm5901/cmselect/cmjust/677/report.html
-House of Lords Constitution Committee. (2025, November 20). The rule of law: holding the line against tyranny and anarchy (HL Paper 211, 13th Report of Session 2024–26). UK Parliament. https://publications.parliament.uk/pa/ld5901/ldselect/ldconst/211/21102.htm
-House of Lords Constitution Committee. (2025, November 20). Rule of law: holding the line between anarchy and tyranny [Press release]. UK Parliament. https://committees.parliament.uk/committee/172/constitution-committee/news/210496/rule-of-law-holding-the-line-between-anarchy-and-tyranny/
-Magrath, P. (2022, May 5). Court hearing lists and open justice. The Transparency Project. https://transparencyproject.org.uk/court-hearing-lists-and-open-justice/
-Ministry of Justice. (2021, November 1). Written submission from the Ministry of Justice [Written evidence submitted to the House of Commons Justice Committee inquiry into supporting open justice and court reporting]. UK Parliament. https://committees.parliament.uk/writtenevidence/40597/html/
-Ministry of Justice. (2023). Open justice: The way forward – Call for evidence. UK Government. https://assets.publishing.service.gov.uk/media/645ba3532226ee00130ae5fb/open-justice-cfe.pdf
-Zenodo. (2025, January 7). Guidelines for describing research data. Zenodo. https://doi.org/10.5281/zenodo.14609589
+Courts and Tribunals Judiciary. (n.d.). County court. <https://www.judiciary.uk/courts-and-tribunals/county-court/>. Retrieved April 28, 2026.  
+HM Courts & Tribunals Service. (n.d.). Find a court or tribunal. GOV.UK. Retrieved April 28, 2026, from <https://www.gov.uk/find-court-tribunal>  
+HM Courts & Tribunals Service (HMCTS). (2025, April 4). List of civil court forms arranged by subject matter [Guidance]. GOV.UK. <https://www.gov.uk/government/publications/civil-procedure-rules-court-forms/list-of-civil-court-forms-arranged-by-subject-matter>  
+HM Courts & Tribunals Service (HMCTS). (n.d.). HMCTS hearing lists [Collection]. GOV.UK. Retrieved April 28, 2026, from <https://www.gov.uk/government/collections/hmcts-hearing-lists>  
+House of Commons Justice Committee. (2025, July 21). Work of the County Court (HC 677, Fourth Report of Session 2024–25). UK Parliament. <https://publications.parliament.uk/pa/cm5901/cmselect/cmjust/677/report.html>  
+House of Lords Constitution Committee. (2025, November 20). The rule of law: holding the line against tyranny and anarchy (HL Paper 211, 13th Report of Session 2024–26). UK Parliament. <https://publications.parliament.uk/pa/ld5901/ldselect/ldconst/211/21102.htm>  
+House of Lords Constitution Committee. (2025, November 20). Rule of law: holding the line between anarchy and tyranny [Press release]. UK Parliament. <https://committees.parliament.uk/committee/172/constitution-committee/news/210496/rule-of-law-holding-the-line-between-anarchy-and-tyranny/>  
+Magrath, P. (2022, May 5). Court hearing lists and open justice. The Transparency Project. <https://transparencyproject.org.uk/court-hearing-lists-and-open-justice/>  
+Ministry of Justice. (2021, November 1). Written submission from the Ministry of Justice [Written evidence submitted to the House of Commons Justice Committee inquiry into supporting open justice and court reporting]. UK Parliament. <https://committees.parliament.uk/writtenevidence/40597/html/>  
+Ministry of Justice. (2023). Open justice: The way forward – Call for evidence. UK Government. https://assets.publishing.service.gov.uk/media/645ba3532226ee00130ae5fb/open-justice-cfe.pdf>  
+Zenodo. (2025, January 7). Guidelines for describing research data. Zenodo. <https://doi.org/10.5281/zenodo.14609589>
