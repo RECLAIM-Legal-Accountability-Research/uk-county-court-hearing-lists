@@ -1,0 +1,72 @@
+### **17 November 2025 to 26 MARCH 2026 CONSOLIDATED DATA SUMMARY**
+
+```text
+DATE       | COURT NAME               | HEARING TYPE             | CATEGORY         | CHANNEL       | COUNT
+-------------------------------------------------------------------------------------------------------------
+25/03/2026 | Central London           | Application / CCMC       | [N/A]            | In person     | 30
+25/03/2026 | Central London           | Restored Name Application| [N/A]            | On the Papers | 30
+25/03/2026 | Central London           | Public Examination (OR)  | [N/A]            | In person     | 18
+25/03/2026 | Central London           | Public Examination (OR)  | [N/A]            | MS Teams      | 4
+25/03/2026 | Central London           | Trial / Appeal / Judgment| [N/A]            | In person     | 12
+25/03/2026 | Central London           | Insolvency / Company App | [N/A]            | In person     | 3
+-------------------------------------------------------------------------------------------------------------
+CENTRAL LONDON (25/03) SUBTOTAL                                                                       97
+-------------------------------------------------------------------------------------------------------------
+25/03/2026 | Clerkenwell & Shoreditch | Possession / Forfeit      | [Various]        | In person     | 31
+25/03/2026 | Clerkenwell & Shoreditch | Application / Set aside  | [Various]        | In person     | 24
+25/03/2026 | Clerkenwell & Shoreditch | Return of Goods          | [Part 7 Claim]   | In person     | 5
+25/03/2026 | Clerkenwell & Shoreditch | Trial / Track hearings   | [Various]        | In person     | 2
+25/03/2026 | Clerkenwell & Shoreditch | PTR / Warrants / Disposal| [Possession]     | In person     | 1
+-------------------------------------------------------------------------------------------------------------
+CLERKENWELL (25/03) SUBTOTAL                                                                          63
+-------------------------------------------------------------------------------------------------------------
+25/03/2026 | Wandsworth               | Possession (Private/Soc)  | [Possession]     | In person     | 9
+25/03/2026 | Wandsworth               | Small Claims / Judgment  | [Money Claims]   | In person     | 5
+25/03/2026 | Wandsworth               | Application / Disposal   | [Various]        | In person     | 4
+-------------------------------------------------------------------------------------------------------------
+WANDSWORTH (25/03) SUBTOTAL                                                                           18
+-------------------------------------------------------------------------------------------------------------
+10/12/2025 | Central London           | Public Examination (OR)  | [N/A]            | In person     | 20
+10/12/2025 | Central London           | Application / CCMC       | [N/A]            | In person     | 18
+10/12/2025 | Central London           | Insolvency / Petitions   | [N/A]            | In person     | 13
+-------------------------------------------------------------------------------------------------------------
+CENTRAL LONDON (10/12) SUBTOTAL                                                                       51
+-------------------------------------------------------------------------------------------------------------
+15/12/2025 | Clerkenwell & Shoreditch | Possession (Acc/Social)   | [Various]        | In person     | 18
+15/12/2025 | Clerkenwell & Shoreditch | Small Claims             | [Money Claims]   | In person     | 17
+15/12/2025 | Clerkenwell & Shoreditch | Gas / Electrical Injunction| [Gas Injunction] | In person     | 9
+-------------------------------------------------------------------------------------------------------------
+CLERKENWELL (15/12) SUBTOTAL                                                                          44
+-------------------------------------------------------------------------------------------------------------
+16/12/2025 | Northampton              | Possession / Warrant     | [PCOL/Social]    | In person     | 17
+16/12/2025 | Northampton              | Family / Public Law      | [Private/Public] | In person     | 3
+16/12/2025 | Northampton              | Family / Public Law      | [Private/Public] | Remote        | 4
+-------------------------------------------------------------------------------------------------------------
+NORTHAMPTON (16/12) SUBTOTAL                                                                          24
+-------------------------------------------------------------------------------------------------------------
+17/11/2025 | Central London           | Petitions (HMRC/Creditor)| [N/A]            | In person     | 24
+17/11/2025 | Central London           | Application / Directions | [N/A]            | In person     | 25
+17/11/2025 | Central London           | Infant Settlement        | [N/A]            | In person     | 2
+-------------------------------------------------------------------------------------------------------------
+CENTRAL LONDON (17/11) SUBTOTAL                                                                       51
+-------------------------------------------------------------------------------------------------------------
+17/11/2025 | Clerkenwell & Shoreditch | Possession (LA/Social)    | [PCOL]           | In person     | 28
+17/11/2025 | Clerkenwell & Shoreditch | Small Claims             | [Money Claims]   | In person     | 11
+17/11/2025 | Clerkenwell & Shoreditch | Application / Directions | [Various]        | In person     | 14
+-------------------------------------------------------------------------------------------------------------
+CLERKENWELL (17/11) SUBTOTAL                                                                          53
+-------------------------------------------------------------------------------------------------------------
+21/11/2025 | Bury St Edmunds          | Small Claims / RTA       | [Unallocated]    | In person     | 3
+21/11/2025 | Bury St Edmunds          | Injunction / Set aside   | [Various]        | In person     | 3
+21/11/2025 | Bury St Edmunds          | REMO Hearing             | [REMO]           | Video - CVP   | 1
+-------------------------------------------------------------------------------------------------------------
+BURY ST EDMUNDS SUBTOTAL                                                                               7
+-------------------------------------------------------------------------------------------------------------
+GRAND TOTAL FOR REMAINING SOURCES                                                                     408
+```
+
+### **Longitudinal Observations (Nov 2025 – March 2026)**
+*   **Central London Activity:** There is a consistent, high volume of **Restored Name** applications conducted **On the Papers** (e.g., 30 cases on 25 March 2026). The court also relies heavily on **Public Examinations (Official Receiver)**, which are primarily in person but occasionally use **MS Teams**.
+*   **Clerkenwell & Shoreditch Volume:** This court continues to be a hub for **Possession** and **Gas/Electrical Injunctions**, often grouping dozens of these cases in short time slots.
+*   **Northampton Remote Usage:** The December 2025 data shows a significant reliance on **Remote (Teams/CVP)** channels for **Family and Public Law** hearings compared to Wandsworth or Central London.
+*   **Wandsworth Specialization:** Wandsworth records show a high concentration of **Small Claims** and **Road Traffic Accidents**, with one of the few instances of a **"Telephone"** hearing (for an Application on 16 December 2025).

@@ -1,0 +1,120 @@
+### **17 April - 21 APRIL 2026 AGGREGATED DATA SUMMARY (EXCLUDING 28 APRIL)**
+
+```text
+DATE       | COURT NAME               | HEARING TYPE             | CATEGORY         | CHANNEL       | COUNT
+-------------------------------------------------------------------------------------------------------------
+17/04/2026 | Central London           | Petitions (HMRC/Creditor)| [N/A]            | In person     | 17
+17/04/2026 | Central London           | Small Claims             | [N/A]            | In person     | 15
+17/04/2026 | Central London           | Application hearing      | [N/A]            | In person     | 17
+17/04/2026 | Central London           | Pre-Trial Review (PTR)   | [N/A]            | In person     | 12
+17/04/2026 | Central London           | Appeals / Permission     | [N/A]            | In person     | 6
+17/04/2026 | Central London           | Directions / CCMC        | [N/A]            | In person     | 4
+17/04/2026 | Central London           | Multi-track Trial        | [N/A]            | In person     | 2
+17/04/2026 | Central London           | Pre-Trial Review (PTR)   | [N/A]            | MS Teams      | 1
+-------------------------------------------------------------------------------------------------------------
+CENTRAL LONDON (17/04) SUBTOTAL                                                                       74
+-------------------------------------------------------------------------------------------------------------
+17/04/2026 | Wandsworth               | Application (Civil/Set)   | [Various]        | In person     | 9
+17/04/2026 | Wandsworth               | Small Claims             | [Money Claims]   | In person     | 10
+17/04/2026 | Wandsworth               | Trial / Track hearings   | [Money Claims]   | In person     | 2
+17/04/2026 | Wandsworth               | CCMC                     | [General App]    | Telephone     | 1
+-------------------------------------------------------------------------------------------------------------
+WANDSWORTH (17/04) SUBTOTAL                                                                           22
+-------------------------------------------------------------------------------------------------------------
+17/04/2026 | Croydon                  | Possession / Substantive  | [Possess/PCOL]   | In person     | 17
+17/04/2026 | Croydon                  | Small Claims             | [Money/Part 8]   | In person     | 4
+17/04/2026 | Croydon                  | Family (DRA/Injunction)  | [Various]        | In person     | 9
+17/04/2026 | Croydon                  | Public Law (Final/IRH)   | [Care Order]     | In person     | 3
+17/04/2026 | Croydon                  | REMO Hearing             | [Reciprocal Ord] | MS Teams      | 3
+17/04/2026 | Croydon                  | Small Claims             | [Small Claims]   | CVP           | 4
+17/04/2026 | Croydon                  | Family / Private Law     | [Private Law]    | MS Teams      | 3
+-------------------------------------------------------------------------------------------------------------
+CROYDON (17/04) SUBTOTAL                                                                              43
+-------------------------------------------------------------------------------------------------------------
+17/04/2026 | Clerkenwell & Shoreditch | Trial / Track hearings   | [Possess/Money]  | In person     | 5
+17/04/2026 | Clerkenwell & Shoreditch | CCMC / PTR               | [General/Poss]   | In person     | 4
+17/04/2026 | Clerkenwell & Shoreditch | PTR (Reading Time)       | [Unspecified]    | Not Attending | 1
+-------------------------------------------------------------------------------------------------------------
+CLERKENWELL (17/04) SUBTOTAL                                                                          10
+-------------------------------------------------------------------------------------------------------------
+21/04/2026 | Central London           | Extended Charge          | [N/A]            | In person     | 14
+21/04/2026 | Central London           | Application hearing      | [N/A]            | In person     | 25
+21/04/2026 | Central London           | HMRC Petition            | [N/A]            | In person     | 7
+21/04/2026 | Central London           | Trial (Multi/Inter)      | [N/A]            | In person     | 11
+21/04/2026 | Central London           | Appeals / Petitions      | [N/A]            | In person     | 7
+21/04/2026 | Central London           | Reserved Judgment        | [N/A]            | Not Attending | 1
+-------------------------------------------------------------------------------------------------------------
+CENTRAL LONDON (21/04) SUBTOTAL                                                                       65
+-------------------------------------------------------------------------------------------------------------
+21/04/2026 | Clerkenwell & Shoreditch | Possession / Forfeit      | [Possess/PCOL]   | In person     | 25
+21/04/2026 | Clerkenwell & Shoreditch | Application / Disposal   | [General/Money]  | In person     | 36
+21/04/2026 | Clerkenwell & Shoreditch | Directions / Allocation   | [Various]        | In person     | 13
+21/04/2026 | Clerkenwell & Shoreditch | Judgment (Civil)          | [Possession]     | Not Attending | 1
+-------------------------------------------------------------------------------------------------------------
+CLERKENWELL (21/04) SUBTOTAL                                                                          75
+-------------------------------------------------------------------------------------------------------------
+21/04/2026 | Wandsworth               | Small Claims             | [Money Claims]   | In person     | 19
+21/04/2026 | Wandsworth               | Trial / Track hearings   | [Various]        | In person     | 10
+21/04/2026 | Wandsworth               | Injunction               | [Injunction]     | In person     | 1
+21/04/2026 | Wandsworth               | Warrant Suspend          | [Housing Appeal] | In person     | 1
+-------------------------------------------------------------------------------------------------------------
+WANDSWORTH (21/04) SUBTOTAL                                                                           31
+-------------------------------------------------------------------------------------------------------------
+22/04/2026 | Central London           | Restored Name Application| [N/A]            | On the Papers | 30
+22/04/2026 | Central London           | Public Examination (OR)  | [N/A]            | In person     | 21
+22/04/2026 | Central London           | Application / Directions | [N/A]            | In person     | 17
+22/04/2026 | Central London           | Trial / Appeal / PTR     | [N/A]            | In person     | 16
+22/04/2026 | Central London           | Application hearing      | [N/A]            | MS Teams      | 3
+22/04/2026 | Central London           | Public Examination (OR)  | [N/A]            | MS Teams      | 1
+-------------------------------------------------------------------------------------------------------------
+CENTRAL LONDON (22/04) SUBTOTAL                                                                       88
+-------------------------------------------------------------------------------------------------------------
+23/04/2026 | Clerkenwell & Shoreditch | Possession               | [PCOL]           | In person     | 30
+23/04/2026 | Clerkenwell & Shoreditch | Trial / Track hearings   | [Money Claims]   | In person     | 7
+23/04/2026 | Clerkenwell & Shoreditch | Application / Injunction | [Injunction/Ext] | In person     | 12
+23/04/2026 | Clerkenwell & Shoreditch | Injunction (Return)      | [Non-Mol]        | CVP           | 1
+-------------------------------------------------------------------------------------------------------------
+CLERKENWELL (23/04) SUBTOTAL                                                                          50
+-------------------------------------------------------------------------------------------------------------
+23/04/2026 | Wandsworth               | Small Claims             | [Money Claims]   | In person     | 10
+23/04/2026 | Wandsworth               | Trial / Track hearings   | [Money/Possess]  | In person     | 4
+-------------------------------------------------------------------------------------------------------------
+WANDSWORTH (23/04) SUBTOTAL                                                                           14
+-------------------------------------------------------------------------------------------------------------
+27/04/2026 | Clerkenwell & Shoreditch | Possession (PCOL/Private) | [Various]        | In person     | 54
+27/04/2026 | Clerkenwell & Shoreditch | Application / Set aside  | [Various]        | In person     | 32
+27/04/2026 | Clerkenwell & Shoreditch | Return of Goods          | [Part 7 Claim]   | In person     | 11
+27/04/2026 | Clerkenwell & Shoreditch | Small Claims             | [Money Claims]   | In person     | 3
+-------------------------------------------------------------------------------------------------------------
+CLERKENWELL (27/04) SUBTOTAL                                                                         100
+-------------------------------------------------------------------------------------------------------------
+27/04/2026 | Croydon                  | Family / Private Law     | [Various]        | In person     | 19
+27/04/2026 | Croydon                  | Trial / Track / Disposal | [Part 7 / Money] | In person     | 2
+27/04/2026 | Croydon                  | Public Law (Final/App)   | [Care/Emergency] | In person     | 3
+27/04/2026 | Croydon                  | Family (DRA/Trial)       | [Private Law]    | MS Teams      | 5
+27/04/2026 | Croydon                  | Small Claims / App       | [Money Claims]   | CVP           | 2
+-------------------------------------------------------------------------------------------------------------
+CROYDON (27/04) SUBTOTAL                                                                              31
+-------------------------------------------------------------------------------------------------------------
+27/04/2026 | Central London           | Petitions (HMRC/Creditor)| [N/A]            | In person     | 28
+27/04/2026 | Central London           | Trial / Track hearings   | [N/A]            | In person     | 14
+27/04/2026 | Central London           | Application / Injunction | [N/A]            | In person     | 17
+27/04/2026 | Central London           | Insolvency / Company App | [N/A]            | In person     | 9
+27/04/2026 | Central London           | Application hearing      | [N/A]            | MS Teams      | 1
+-------------------------------------------------------------------------------------------------------------
+CENTRAL LONDON (27/04) SUBTOTAL                                                                       69
+-------------------------------------------------------------------------------------------------------------
+27/04/2026 | Wandsworth               | Possession (PCOL)        | [Tenancy]        | In person     | 1
+27/04/2026 | Wandsworth               | Small Claims             | [Money Claims]   | In person     | 9
+27/04/2026 | Wandsworth               | Injunction / App / CMC   | [Various]        | In person     | 3
+-------------------------------------------------------------------------------------------------------------
+WANDSWORTH (27/04) SUBTOTAL                                                                           13
+-------------------------------------------------------------------------------------------------------------
+GRAND TOTAL (17, 21, 22, 23, 27 APRIL)                                                               685
+```
+
+### **Summary of Longitudinal Patterns**
+*   **Central London:** Displays high volumes of **Insolvency** and **Petitions** (e.g., 28 hearings on 27 April), mostly conducted **In person**.
+*   **Clerkenwell & Shoreditch:** Is the highest-volume court for **Possession** (reaching 54 listings on 27 April), including local authority, social, and private rent cases.
+*   **Croydon:** Shows a significant mix of **Civil** and **Family** cases, with a higher usage of **remote channels** (MS Teams and CVP) for family dispute resolution compared to the other courts.
+*   **Wandsworth:** Focuses heavily on **Small Claims** and **Road Traffic Accidents**, with one rare instance of an **"On the Papers"** hearing for a University Hospital case on 28 April.

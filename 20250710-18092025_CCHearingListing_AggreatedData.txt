@@ -1,0 +1,89 @@
+### **10 July 2025 - 18 September 2025 ** CONSOLIDATED DATA SUMMARY
+
+```text
+DATE       | COURT NAME               | HEARING TYPE             | CATEGORY         | CHANNEL       | COUNT
+-------------------------------------------------------------------------------------------------------------
+18/09/2025 | Central London           | Restored Name Application| [N/A]            | On the Papers | 20
+18/09/2025 | Central London           | Petitions (HMRC/Creditor)| [N/A]            | In person     | 21
+18/09/2025 | Central London           | Trials / Track / App     | [N/A]            | In person     | 8
+-------------------------------------------------------------------------------------------------------------
+16/09/2025 | Central London (Blitz)   | Fast-track / Small Claims| [N/A]            | In person     | 49
+16/09/2025 | Central London           | Extended Charge          | [N/A]            | In person     | 15
+16/09/2025 | Central London           | Petitions / Insolvency   | [N/A]            | In person     | 4
+16/09/2025 | Central London           | Order for Questioning    | [N/A]            | In person     | 1
+16/09/2025 | Clerkenwell & Shoreditch | Possession / Forfeit      | [Various]        | In person     | 21
+16/09/2025 | Clerkenwell & Shoreditch | Application / Injunction | [Various]        | In person     | 15
+-------------------------------------------------------------------------------------------------------------
+15/09/2025 | Central London (Blitz)   | Fast-track / Small Claims| [N/A]            | In person     | 42
+15/09/2025 | Central London           | Petitions (HMRC/Creditor)| [N/A]            | In person     | 46
+15/09/2025 | Central London           | Trials (Multi-track)     | [N/A]            | In person     | 4
+15/09/2025 | Clerkenwell & Shoreditch | Possession Rent          | [LA/Social]      | In person     | 32
+15/09/2025 | Clerkenwell & Shoreditch | Small Claims / RTA       | [Money Claim]    | In person     | 24
+15/09/2025 | Clerkenwell & Shoreditch | Application / Injunction | [Various]        | In person     | 16
+-------------------------------------------------------------------------------------------------------------
+11/09/2025 | Central London           | Restored Name Application| [N/A]            | On the Papers | 28
+11/09/2025 | Central London           | Trial (Fast/Multi track) | [N/A]            | In person     | 7
+11/09/2025 | Central London           | Application / Injunction | [N/A]            | In person     | 3
+-------------------------------------------------------------------------------------------------------------
+08/09/2025 | Central London (Blitz)   | Small Claims / RTA       | [N/A]            | In person     | 45
+08/09/2025 | Central London           | Petitions (HMRC/Creditor)| [N/A]            | In person     | 25
+08/09/2025 | Central London           | Trials / Directions / App | [N/A]            | In person     | 20
+08/09/2025 | Clerkenwell & Shoreditch | Possession / Forfeit      | [Various]        | In person     | 27
+08/09/2025 | Clerkenwell & Shoreditch | Small Claims / RTA       | [Various]        | In person     | 14
+-------------------------------------------------------------------------------------------------------------
+05/09/2025 | Central London (Blitz)   | Fast-track / Small Claims| [N/A]            | In person     | 49
+05/09/2025 | Mayors and City          | Application / PTR        | [Various]        | In person     | 5
+-------------------------------------------------------------------------------------------------------------
+04/09/2025 | Central London           | Petitions (HMRC/Creditor)| [N/A]            | In person     | 20
+04/09/2025 | Central London           | Trial (Fast/Multi track) | [N/A]            | In person     | 5
+04/09/2025 | Central London           | Appeals / Permission     | [N/A]            | In person     | 5
+-------------------------------------------------------------------------------------------------------------
+03/09/2025 | Mayors and City          | Possession Hearing      | [Various]        | In person     | 25
+03/09/2025 | Mayors and City          | Application / Disposal   | [Various]        | In person     | 6
+03/09/2025 | RCJ (Blitz List)         | Small Claims             | [N/A]            | In person     | 8
+-------------------------------------------------------------------------------------------------------------
+02/09/2025 | Mayors and City          | Possession Hearing      | [Various]        | In person     | 20
+02/09/2025 | Central London           | Extended Charge          | [N/A]            | In person     | 10
+02/09/2025 | Central London           | Petitions (HMRC/Creditor)| [N/A]            | In person     | 8
+-------------------------------------------------------------------------------------------------------------
+01/09/2025 | Central London           | Debt / Charging Orders   | [N/A]            | In person     | 25
+01/09/2025 | Central London           | Trials (Multi-track)     | [N/A]            | In person     | 5
+01/09/2025 | Central London           | Costs / Case Management  | [N/A]            | In person     | 5
+-------------------------------------------------------------------------------------------------------------
+28/08/2025 | Central London           | Petitions (HMRC/Creditor)| [N/A]            | In person     | 21
+28/08/2025 | Central London           | Restored Name Application| [N/A]            | In person     | 16
+28/08/2025 | Clerkenwell & Shoreditch | Possession (Rent/Mort)   | [Various]        | In person     | 31
+-------------------------------------------------------------------------------------------------------------
+26/08/2025 | Central London           | Extended Charge          | [N/A]            | In person     | 12
+26/08/2025 | Central London           | Trials (Multi-track)     | [N/A]            | In person     | 5
+26/08/2025 | Central London           | Application / Directions | [N/A]            | In person     | 25
+-------------------------------------------------------------------------------------------------------------
+22/08/2025 | Central London (Blitz)   | Fast-track / Small Claims| [N/A]            | In person     | 26
+22/08/2025 | Central London           | Costs / Case Management  | [N/A]            | In person     | 15
+22/08/2025 | Central London           | Pre-trial Review (PTR)   | [N/A]            | In person     | 10
+-------------------------------------------------------------------------------------------------------------
+21/08/2025 | Central London (Blitz)   | Small Claims / Fast-track| [N/A]            | In person     | 57
+21/08/2025 | Central London           | Restored Name Application| [N/A]            | On the Papers | 18
+21/08/2025 | Central London           | Petitions (HMRC/Creditor)| [N/A]            | In person     | 25
+-------------------------------------------------------------------------------------------------------------
+20/08/2025 | Central London           | Return of Goods Hearing  | [N/A]            | In person     | 9
+20/08/2025 | Central London           | Trials (Multi-track)     | [N/A]            | In person     | 10
+20/08/2025 | Central London           | Application / Directions | [N/A]            | In person     | 15
+-------------------------------------------------------------------------------------------------------------
+19/08/2025 | Central London           | Extended Charge          | [N/A]            | In person     | 12
+19/08/2025 | Central London           | Application / Directions | [N/A]            | In person     | 16
+19/08/2025 | Central London           | Petitions (Creditor)     | [N/A]            | In person     | 4
+-------------------------------------------------------------------------------------------------------------
+10/07/2025 | Central London           | Restored Name Application| [N/A]            | On the Papers | 30
+10/07/2025 | Central London           | Petitions (HMRC/Creditor)| [N/A]            | In person     | 22
+10/07/2025 | Central London           | Trials (Multi/Fast Track)| [N/A]            | In person     | 9
+10/07/2025 | Central London           | Housing Act Appeals      | [N/A]            | In person     | 4
+-------------------------------------------------------------------------------------------------------------
+GRAND TOTAL FOR THIS BATCH (JULY – SEPT 2025)                                                       812
+```
+
+### **Longitudinal Observations (Reverse Chronological)**
+*   **Petitions Peak:** The data shows a significant peak in **HMRC and Creditor Petitions** in mid-September, reaching **46 listings** on 15 September 2025.
+*   **Restored Name Regularity:** Large batches of **Restored Name** applications continue to be processed **On the Papers** at roughly two-week intervals, typically in blocks of **20 to 30** cases.
+*   **Administrative Presence:** The batch confirms the role of the **Proper Officer** (Ms. Blakeman) in handling purely administrative listings such as **Orders for Questioning** on 16 September 2025.
+*   **"Blitz" Consistency:** High-volume processing of lower-value **Small Claims** and **Fast-track** trials remains a staple of the RCJ "Blitz" lists throughout August and September, frequently clearing **40+ cases** per day.
