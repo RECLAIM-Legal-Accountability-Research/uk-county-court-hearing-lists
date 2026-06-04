@@ -5,7 +5,7 @@ Authors/Creators: Bohlinger, Britta (Researcher)
 # APA citation:
 Bohlinger, B. (2026). Longitudinal Collection of UK County Court Daily Hearing Lists [Data set]. Zenodo. <https://doi.org/10.5281/zenodo.19828688>  
 
-GitHub <https://github.com/RECLAIM-Legal-Accountability-Research/uk-county-court-hearing-lists/>
+GitHub <https://github.com/BebeHub/uk-county-court-hearing-lists/>
 
 # Description
 Purpose and Global Accessibility
